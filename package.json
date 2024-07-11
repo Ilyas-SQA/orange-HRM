@@ -1,0 +1,27 @@
+{
+  "name": "qa-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run",
+    "runtests": "npm run test --"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "fawad.software.engineer@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "cypress": "^10.11.0",
+    "cypress-voice-plugin": "^1.0.0",
+    "cypress-xpath": "^2.0.1",
+    "mocha": "^10.5.2"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "dotenv": "^16.0.2",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
