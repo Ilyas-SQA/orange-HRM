@@ -24,6 +24,13 @@ const LINK_LumaBottoms = '//a[@id="ui-id-11"]'
 const LINK_LumaPants = '//a[@id="ui-id-16"]'
 const LINK_LumaShorts = '//a[@id="ui-id-17"]'
 
+
+
+
+
+
+
+
 class LoginLuma {
     /*******************************************************************
      * Command: 
