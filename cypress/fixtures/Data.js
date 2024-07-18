@@ -3,7 +3,7 @@
 const LumaData =
 {
 
-    emailAddress: 'Testing+11@gmail.com',
+    emailAddress: 'Testing+12@gmail.com',
     FirstName: 'Test',
     LastName: 'Testing',
     password: 'Baskarjkjk@2',

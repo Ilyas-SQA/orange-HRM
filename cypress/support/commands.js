@@ -102,3 +102,4 @@ Cypress.Commands.add('VerifyPageHeader', (locator, PageTitle) => {
     cy.xpath(locator).should('have.text', PageTitle)
 })
 
+require('@cypress/snapshot').register()
